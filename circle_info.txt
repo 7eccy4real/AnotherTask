@@ -1,0 +1,4 @@
+Circle Information:
+Center Coordinates: (1, 3.5)
+Radius: 2.5
+Color: Синий
